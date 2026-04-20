@@ -1,0 +1,12 @@
+Crime Prediction Using Machine Learning:
+
+Algorithm / Model Used: Decision Tree Classifier.
+
+Accuracy Train Score: 98% and Test Score: 95%.
+*****************************************************
+
+Algorithm / Model Used: Bagging Classifier.
+
+Accuracy Train score: 98% and test score: 95%
+*****************************************************
+
