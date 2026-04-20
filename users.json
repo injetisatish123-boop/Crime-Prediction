@@ -1,0 +1,30 @@
+{
+    "kireeti548365@gmail.com": {
+        "name": "kittu_18",
+        "password": "e63672e5f47362ec47cf361d313c7f4cbd75f93e33e5ca76817761b5693e9e1e"
+    },
+    "test@agent.com": {
+        "name": "Test Agent",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    "test@example.com": {
+        "name": "Test Agent",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    "jet@example.com": {
+        "name": "Agent Jet",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    "injetisatish123@gmail.com": {
+        "name": "Satish",
+        "password": "50cfe514a39b70ca385d62d47ce45b8b8b479a95375206e65cd4e8c93eb28453"
+    },
+    "injetisatish123@gamil.com": {
+        "name": "Satish",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    "verify@test.com": {
+        "name": "Verifier",
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+    }
+}
